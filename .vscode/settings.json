@@ -1,0 +1,15 @@
+{
+    "workbench.editor.showTabs": true,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "cSpell.patterns": [
+    
+    ],
+    "launch": {
+    
+    
+    
+        "configurations": [],
+        "compounds": []
+    }
+}
